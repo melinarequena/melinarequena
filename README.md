@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p><img align="right" src="https://i.gifer.com/origin/ac/aca12e1e7419bd2ec086801c8ad6317c_w200.gif" alt="kitten" /></p>
 
-- :student: I am a `Software Engineering` student at [FIE].
+- :student: I’m a `Software Engineering` student at FIE.
 - :computer: I’m currently learning `MySQL`, `Javascript`, `React`.
 - :boom: You can visit [MY WEBSITE](https://melirequena.com/).
 <br>
@@ -17,6 +17,9 @@
   <img src= "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img src= "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 </span>
+
+![melinarequena's Stats](https://github-readme-stats.vercel.app/api?username=melinarequena&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![melinarequena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melinarequena&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 
