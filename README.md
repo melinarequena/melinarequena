@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 - :student: I’m a `Software Engineering student` at FIE.
-- :computer: I’m currently learning `MySQL`, `Javascript`, `React`.
+- :computer: I’m currently learning `Javascript`, `React`.
 - :boom: You can visit [MY WEBSITE](https://melirequena.com/).
 <br>
 
