@@ -1,4 +1,6 @@
-<p><img align="right" src="https://i.gifer.com/origin/ac/aca12e1e7419bd2ec086801c8ad6317c_w200.gif" alt="kitten" /></p>
+
+<p><img align="right" src="https://media.tenor.com/nW_yTOndgdcAAAAj/heart-cat.gif" alt="kitten" /></p>
+
 
 ## Hi there 👋
 
@@ -18,8 +20,12 @@
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
   <img src= "https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)">
+   <img src= "https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src= "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img src= "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  
+
+
 
 </span>
 
