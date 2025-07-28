@@ -1,8 +1,5 @@
-
-<p><img align="right" src="https://media.tenor.com/nW_yTOndgdcAAAAj/heart-cat.gif" alt="kitten" /></p>
-
-
 ## Hi there 👋
+<br>
 
 - :student: I’m a `Software Engineering student` at FIE.
 - :computer: I’m currently learning `PHP`, `React`.
